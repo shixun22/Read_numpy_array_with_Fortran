@@ -1,4 +1,4 @@
-# read_numpy_array_with_Fortran
+# Read_numpy_array_with_Fortran
 Pass array from python to Fortran
 
 gen_fortran_readable_array.py:
